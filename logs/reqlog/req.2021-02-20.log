@@ -1,0 +1,163 @@
+[2021-02-20T20:55:26.608] [ERROR] default - 账号没有被注册,请注册
+[2021-02-20T20:59:36.876] [ERROR] default - 密码错误,登录失败,请重试
+[2021-02-20T20:59:43.306] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T21:23:09.618] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T21:29:14.330] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T21:30:24.530] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T21:36:24.375] [INFO] default - 退出成功
+[2021-02-20T21:36:41.677] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T21:38:11.985] [INFO] default - 退出成功
+[2021-02-20T22:04:44.624] [INFO] default - 退出成功
+[2021-02-20T22:04:53.812] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T13:38:35.000Z,
+    update_time: 2021-02-20T13:38:35.000Z,
+    id: 2,
+    nick_name: '李玉森',
+    password_hash: '123456',
+    username: '李玉森',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T22:06:16.851] [INFO] default - 退出成功
+[2021-02-20T22:06:25.145] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T12:17:00.000Z,
+    update_time: 2021-02-20T12:17:00.000Z,
+    id: 1,
+    nick_name: 'admin',
+    password_hash: '123456',
+    username: 'admin',
+    avatar_url: null,
+    last_login: null,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T22:49:20.602] [INFO] default - 退出成功
+[2021-02-20T22:50:10.206] [INFO] default - 退出成功
+[2021-02-20T22:50:20.410] [ERROR] default - 密码错误,登录失败,请重试
+[2021-02-20T22:52:02.603] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T14:49:38.000Z,
+    update_time: 2021-02-20T14:49:38.000Z,
+    id: 3,
+    nick_name: 'admin',
+    password_hash: '80c56307875c3bf8a1e18ed3b767e166',
+    username: 'admin',
+    avatar_url: null,
+    last_login: 2021-02-20T14:49:39.000Z,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T23:05:10.383] [INFO] default - 退出成功
+[2021-02-20T23:05:22.276] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T14:49:38.000Z,
+    update_time: 2021-02-20T14:52:01.000Z,
+    id: 3,
+    nick_name: 'admin',
+    password_hash: '80c56307875c3bf8a1e18ed3b767e166',
+    username: 'admin',
+    avatar_url: null,
+    last_login: 2021-02-20T14:52:02.000Z,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T23:25:59.424] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T14:49:38.000Z,
+    update_time: 2021-02-20T15:05:21.000Z,
+    id: 3,
+    nick_name: 'admin',
+    password_hash: '80c56307875c3bf8a1e18ed3b767e166',
+    username: 'admin',
+    avatar_url: null,
+    last_login: 2021-02-20T15:05:22.000Z,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-20T23:49:05.354] [INFO] default - [::1 GET /news_detail/20 404 4ms][http://localhost:3000/ HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36]
+[2021-02-20T23:49:12.437] [INFO] default - [::1 GET /news_detail/1154 404 1ms][http://localhost:3000/ HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36]
+[2021-02-20T23:49:18.421] [INFO] default - [::1 GET /news_detail/1154 404 1ms][http://localhost:3000/ HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36]

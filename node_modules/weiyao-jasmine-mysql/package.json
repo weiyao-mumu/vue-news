@@ -1,0 +1,9 @@
+{
+  "name": "weiyao-jasmine-mysql",
+  "version": "1.1.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

@@ -1,0 +1,16 @@
+[2021-02-23T16:40:19.239] [INFO] default - [
+  RowDataPacket {
+    create_time: 2021-02-20T14:49:38.000Z,
+    update_time: 2021-02-22T07:52:08.000Z,
+    id: 3,
+    nick_name: 'admin',
+    password_hash: '80c56307875c3bf8a1e18ed3b767e166',
+    username: 'admin',
+    avatar_url: null,
+    last_login: 2021-02-22T07:52:08.000Z,
+    is_admin: null,
+    signature: null,
+    gender: null
+  }
+] 登录成功
+[2021-02-23T16:41:25.148] [INFO] default - 退出成功
